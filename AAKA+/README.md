@@ -54,7 +54,7 @@ Before starting the simulations, ensure you have the necessary libraries install
 3. **Performance Testing AAKA+PS**:
 
    ```shell
-   python performance_test_aaka_ps.py
+   python time_aaka_ps.py
    ```
 
 ## Code Overview
