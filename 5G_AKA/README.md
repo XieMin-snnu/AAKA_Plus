@@ -1,5 +1,3 @@
-### README
-
 # AKA5G
 Python implementation of the 5G AKA protocol with added ECISE SUCI encryption.
 
