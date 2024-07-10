@@ -1,4 +1,4 @@
-# AKA5G
+# 5G-AKA
 Python implementation of the 5G AKA protocol with added ECISE SUCI encryption.
 
 ## Requirements
