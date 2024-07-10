@@ -17,7 +17,7 @@ Before starting the simulations, ensure you have the necessary libraries install
 
 ## Running the Simulations
 
-### AAKA with BB Scheme
+### AAKA+BB Scheme
 
 1. **Class**:
 
@@ -31,7 +31,7 @@ Before starting the simulations, ensure you have the necessary libraries install
    python -m pytest test_aaka_bb.py
    ```
 
-3. **Performance Testing AAKA BB**:
+3. **Performance Testing AAKA+BB**:
 
    ```shell
    python time_aaka_bb.py
@@ -45,13 +45,13 @@ Before starting the simulations, ensure you have the necessary libraries install
    python aaka_ps.py
    ```
 
-2. **Testing AAKA PS**:
+2. **Testing AAKA+PS**:
 
    ```shell
    python -m pytest test_aaka_ps.py
    ```
 
-3. **Performance Testing AAKA PS**:
+3. **Performance Testing AAKA+PS**:
 
    ```shell
    python performance_test_aaka_ps.py
