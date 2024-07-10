@@ -1,4 +1,4 @@
-# AAKA+: Breaking and Repairing AAKA via Anonymous Authentication and Key Agreement with Verifier Local Revocation
+# AAKA+
 Python implementation of the 5G AKA protocol and the AAKA(Anonymous Authentication and Key Agreement) + BB(Boneh-Boyen signature)/PS(Pointcheval-Sanders Signature) schemes.
 
 ## Requirements
