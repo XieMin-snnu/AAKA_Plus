@@ -69,7 +69,7 @@ This file defines the `AAKA+` class, which handles the AAKA+BB/PS schemes logic.
 - `LEAKeyGen()`: Generate LEA key pair.
 - `AsymKeyGen()`: Generate asymmetric key pair.
 - `CredIssue(isk, ipk, m, pm)`: Issue a credential.
-- `CredVer(ipk, m, pm, cred, pi_0)`: Verify a credential.
+- `CredVer(ipk, m, pm, cred, pi)`: Verify a credential.
 - `KeyExchange_UE()`: Perform user equipment key exchange.
 - `KeyExchange_XN(A, Y, y)`: Perform XN key exchange.
 - `KeyExchange_UE_Ver(Y, A, B, a, tau)`: Verify user equipment key exchange.
